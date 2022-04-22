@@ -1,0 +1,65 @@
+<html>
+<head>
+<title> </title>
+<style type="text/css">
+    .star_red
+	{
+	color:red;
+	}
+	</style>
+ </head>
+<body>
+
+<table border="0" align="center" width ="50%" style="background-color:black;color:white;">
+<tbody>
+<tr>
+  <td>
+  <div style="font-size:32px;text-align:center;margin-top:2%;margin-bottom:2%;text-transform:capitalize;"> contact us </div>
+  <div align ="center"> how can we help? </div>
+  <br/> 
+<div style="text-align:center;"> please select a topic below related to your inquiry. If you don't don't find what you need,fill out our contact form. </div>
+    </td>
+    </tr>
+ <tr> 
+ <td>
+ <div style="margin-left:10%;margin-right:10%;margin-top:2%;margin-bottom:2%">
+ <label> name <sup class="star_red"> * </sup> </label>
+ <br/>
+ <br/>
+ <input type="text" name="" style ="width:100%;height:35px"> 
+    </div>
+    </td>
+    </tr>
+ <tr>
+ <td> 
+ <div style ="margin-left:10%;margin-right:10%">
+ <label> email adress <sup class="star_red"> * </sup> </label>
+ </br> 
+</br>
+ <input type="text" name="" style="width:100%;height:35%">
+    </div>
+    </td>
+    </tr>
+ <tr>
+ <td> 
+ <div style="margin-left:10%;margin-right:10%;"> 
+ <label> Message </label>
+ <br/>
+ <br/>
+ <textarea style="width:100%;height:125%;"> </textarea>
+   </div>
+   </td>
+   </tr>
+ <tr>
+     <td>
+	 <div style="margin-left:10%;margin-right:10%;">
+    <br/>
+	 <input type="submit" name =""value ="send message" style="border-style:solid;width;100%;height:100%;background-color:white;color:black;border-width:0px;cursor:pointer;margin-bottom: 2%;"> </input>
+</div>
+	 </td>
+	 </tr>
+	 </tbody>
+	 </table> 
+	 
+</body>
+</html>
